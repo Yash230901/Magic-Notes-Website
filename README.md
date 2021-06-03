@@ -2,7 +2,7 @@
 
 This is a Notes App build using HTML,CSS, Javascript and Bootstrap.
 
-
+![image](https://user-images.githubusercontent.com/82868832/120601402-81020180-c467-11eb-853b-b142a4426a66.png)
 
 Magic-Notes is a good helper to manage your schedules and notes. 
 It gives you a quick and simple notepad editing experience when you write notes, memo, email, message, shopping list and to do list. 
