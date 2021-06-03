@@ -1,4 +1,4 @@
-# Magic-Notes-Webapp
+# Magic-Notes Webapp
 
 This is a Notes App build using HTML,CSS, Javascript and Bootstrap.
 
